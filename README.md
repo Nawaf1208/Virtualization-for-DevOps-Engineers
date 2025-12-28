@@ -1,5 +1,9 @@
 # Virtualization-for-DevOps-Engineers
 
+![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+![](Virtualization.png)
+
 **_1.What is Virtualization?_**
 
 - Virtualization uses software to create an abstraction layer over computer hardware, that allows the hardware elements of a single computer - processors, memory, storage and more - to be divided into multiple virtual computers, commonly called virtual machines (VMs).
